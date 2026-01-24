@@ -98,7 +98,7 @@ psutil==5.9.8 ; python_version >= "3.11" and python_version < "4.0"
 ptyprocess==0.7.0 ; python_version >= "3.11" and python_version < "4.0" and (sys_platform != "win32" and sys_platform != "emscripten")
 pure-eval==0.2.2 ; python_version >= "3.11" and python_version < "4.0"
 pyasn1-modules==0.4.0 ; python_version >= "3.11" and python_version < "4.0"
-pyasn1==0.6.0 ; python_version >= "3.11" and python_version < "4.0"
+pyasn1==0.6.2 ; python_version >= "3.11" and python_version < "4.0"
 pycparser==2.22 ; python_version >= "3.11" and python_version < "4.0" and implementation_name == "pypy"
 pydantic-core==2.18.4 ; python_version >= "3.11" and python_version < "4.0"
 pydantic-settings==2.3.1 ; python_version >= "3.11" and python_version < "4.0"
